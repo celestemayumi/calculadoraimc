@@ -97,7 +97,16 @@ span {
     background-color: palevioletred;
     padding: 1em;
     width: 50%;
-    margin-bottom: 5em;
+    margin-bottom: 3em;
+}
 
+/* Footer */
+
+footer {
+    background-color: pink; ;
+    color: rgb(38, 38, 38);
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
 }
 
